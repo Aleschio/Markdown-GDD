@@ -226,4 +226,6 @@ when player obtain 7 books, upon activating book button will take off mask
  > - [*in Game 0.1.3*](https://is.gd/PhFDch)
  >> add several bars should lower the bass
  > - [*in Game 1.1.4*](https://is.gd/3OYtv2)
- >> different cadence 
+ >> different cadence
+ > - [*in Game 1.1.5*](https://is.gd/iGX3Jr)
+ >> blues
