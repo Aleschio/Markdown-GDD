@@ -215,8 +215,10 @@ when player obtain 7 books, upon activating book button will take off mask
  >> loop structure
  > - [*Flute.1.1.5*](https://is.gd/BmLM27)
  >> delete reppeteble pattern
- >- [*Flute.2.2.6*](https://is.gd/UKsJZd)
- >> inverted voicing 
+ > - [*Flute.2.2.6*](https://is.gd/UKsJZd)
+ >> inverted voicing
+ > - [*Flute.2.2.7*](https://is.gd/mR8y0U)
+ >> for now final
  > - [*in Game 0.0.1*](https://is.gd/rZSloC)
  >> first commit for in Game track 1
  > - [*in Game 0.1.2*](https://is.gd/YklHx0)
