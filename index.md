@@ -124,6 +124,7 @@ this should be:
 2. repeatable
 3. partially random
 4. click on tile
+
 **collecting resources**
 - resources:
 - are randomly appearing on map
