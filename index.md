@@ -67,11 +67,11 @@ This is place for suggestions about this document
 - [ ] win music
 - [ ] game over music
 
-- [ ] tower sound
-- [ ] mask mode sound
-- [ ] resource collect sound
-- [ ] pest sound
-- [ ] pest death sound
+- [x] tower sound
+- [x] mask mode sound
+- [x] resource collect sound
+- [x] pest sound
+- [x] pest death sound
 
 ### polish 
   - [ ] menu
