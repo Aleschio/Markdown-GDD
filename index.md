@@ -177,6 +177,17 @@ faster completion = higher score
 
 
 ## Sounds
+this project use Soniss GameAudoGDC 2019 sounds library
+
+**list of produced sounds**
+creep sounds
+> bugs, bug_death, bunny1, bunny2, buzz1, buzz2
+
+buildig sounds
+> build_sound, spray1, spray2
+
+other sounds
+> mask_mode, unmask, pickup_item
 
 ## Soundtrack
 
