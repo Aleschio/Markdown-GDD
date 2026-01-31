@@ -218,4 +218,6 @@ other sounds
  > - [*in Game 1.1.5*](https://is.gd/iGX3Jr)
  >> blues
  > - [*in Game 2.1.6*](https://is.gd/hxCnkE)
- >> add harpsichord  
+ >> add harpsichord
+ > - [*in Game 2.2.7*](https://is.gd/XDxTn8)
+ >> add another turnaround  
