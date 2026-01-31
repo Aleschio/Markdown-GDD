@@ -229,3 +229,5 @@ when player obtain 7 books, upon activating book button will take off mask
  >> different cadence
  > - [*in Game 1.1.5*](https://is.gd/iGX3Jr)
  >> blues
+ > - [*in Game 2.1.6*](https://is.gd/hxCnkE)
+ >> add harpsichord  
