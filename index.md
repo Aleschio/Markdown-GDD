@@ -18,7 +18,7 @@ This is place for suggestions about this document
 > player base - the city, slots for farms, slots for towers, paths, basic enviroment
 - [ ]  UI - buttons and resources information
 > food amount bar, gold count, mask button, book button
-- [ ]  avatar movement
+- [x]  avatar movement
 
 ### mechanics
 - [ ]  creeps movement mechanic
