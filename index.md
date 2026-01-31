@@ -213,9 +213,13 @@ when player obtain 7 books, upon activating book button will take off mask
  >> bass + drums
  > - [*Flute.1.1.4*](https://is.gd/YT3iVb)
  >> loop structure
+ > - [*Flute.1.1.5*](https://is.gd/BmLM27)
+ >> delete reppeteble pattern
  > - [*in Game 0.0.1*](https://is.gd/rZSloC)
  >> first commit for in Game track 1
  > - [*in Game 0.1.2*](https://is.gd/YklHx0)
  >> add bass + drums
  > - [*in Game 0.1.3*](https://is.gd/PhFDch)
  >> add several bars should lower the bass
+ > - [*in Game 1.1.4*](https://is.gd/3OYtv2)
+ >> different cadence 
