@@ -119,7 +119,7 @@ Game UI size
 5. exit game
 
 ### core loop
-this must be:
+this should be:
 1. fun
 2. repeatable
 3. partially random
@@ -186,17 +186,18 @@ when player obtain 7 books, upon activating book button will take off mask
 
 ### objective
 
-**if both players starves** - "game over" => final score will be shown and saved to hiscores
+- **if both players starves** - "game over" => final score will be shown and saved to hiscores
 
 **if one player starves:**
-- his food runs out, he can't build farmfields, or towers, 
-- his avatar speed is reduced, but he is able to collect resources and use mask features
-- his resource production will rapidly
-- his food consumption rate will slowly decrease
-- 
-**if both players fill their food supply to max** - "win win" => final score will be shown and saved to hiscores
+-- his food runs out, he can't build farmfields, or towers, 
+-- his avatar speed is reduced, but he is able to collect resources and use mask features
+-- his resource production will rapidly
+-- his food consumption rate will slowly decrease
 
-**score formula:** 
+- **if both players fill their food supply to max** - "win win" => final score will be shown and saved to hiscores
+
+- **score formula:** 
+
 ((total generated food amount)*(10[only if both players win]))/((number of seconds from start)/100)
 
 
