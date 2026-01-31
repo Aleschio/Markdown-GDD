@@ -104,11 +104,11 @@ Game UI size
 
 ### controls
 
-***click on tile** - avatar moves to clicked tile and collect resource if there\
-**click on empty building tile with avatar neraby** - popup building upgrade/downgrade menu\
-*bug button* (optional)- this will send wave of pest to both players\
-**foreign mask button** - wear second player's mask - this allows you to go to their territory and do actions with buildings\
-**book button** - this will unmask player and allow him to go to restricted area
+- **click on tile** - avatar moves to clicked tile and collect resource if there\
+- **click on empty building tile with avatar neraby** - popup building upgrade/downgrade menu\
+- *bug button* (optional)- this will send wave of pest to both players\
+- **foreign mask button** - wear second player's mask - this allows you to go to their territory and do actions with buildings\
+- **book button** - this will unmask player and allow him to go to restricted area
 
 **ingame menu button**
 
