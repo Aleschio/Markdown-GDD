@@ -36,33 +36,30 @@ This is place for suggestions about this document
 - [ ]  first playable level
 
 **required tiles**
+- 1x1 (animated)
+   - grass
+   - gold nugget
+   - mask piece
+   - book
+   - redberry
+   - blueberry
+   - apple
+   - mushroom
+   - pest
+- 2x2
+   - masked avatar
+   - unmasked avatar
+   - pest distraction field
+   - empty pest distraction field
+   - empty tower place
+   - basic tower
+   - spray tower
+- 3x3
+   - empty farm field
+   - farm field
 
-1x1 (animated)
-- grass
-- gold nugget
-- mask piece
-- book
-- redberry
-- blueberry
-- apple
-- mushroom
-- pest
-
-2x2
-- masked avatar
-- unmasked avatar
-- pest distraction field
-- empty pest distraction field
-- empty tower place
-- basic tower
-- spray tower
-
-3x3
-- empty farm field
-- farm field
-
-4x4
-- the city - players base
+- 4x4
+   - the city - players base
 
 ### sound
 - [ ] menu music
