@@ -64,14 +64,25 @@ This is place for suggestions about this document
 4x4
 - the city - players base
 
-### polish (optional)
+### sound
+- [ ] menu music
+- [ ] game music
+- [ ] win music
+- [ ] game over music
+
+- [ ] tower sound
+- [ ] mask mode sound
+- [ ] resource collect sound
+- [ ] pest sound
+- [ ] pest death sound
+
+### polish 
   - [ ] menu
-  - [ ] settings
-  - [ ] music
-  - [ ] sounds
+  - [ ] working exit button
+  - [ ] music volume
+  - [ ] sound volume
   - [ ] score
-  - [ ] scoreboard
-  - [ ] difficulty
+
 ## Game lore
 
 ### story
@@ -96,7 +107,7 @@ Game UI size
 click on tile - avatar moves to clicked tile and collect resource if there\
 click on tile with avatar neraby - popup building upgrade/downgrade menu\
 bug button (optional)- this will send wave of pest to both players\
-foreign mask button - wear second player's mask - this allows you to go to their grounds and do actions with buildings\
+foreign mask button - wear second player's mask - this allows you to go to their territory and do actions with buildings\
 book button - this will unmask player and allow him to go to restricted area
 
 **ingame menu button**
@@ -114,9 +125,9 @@ this must be:
 3. partially random
 4. click on tile
 **collecting resources**
-- resources
+- resources:
 - are randomly appearing on map
-- appear for random time and disappear afterwards
+- appear for limited time and disappear afterwards
 - can be colleted by any avatar
 
 - gold nugget - add 2-5 gold 
@@ -124,7 +135,7 @@ this must be:
 - book - player has to collect 7 books to be able to use "book button" - wich will unmask player upon activation
 - food piece - add 3-10 to players food supply (increase over time)
 - 
-- cherry tile
+- redberry tile
 - mushroom tile
 - apple tile
 - blueberry tile
