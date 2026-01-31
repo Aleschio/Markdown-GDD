@@ -2,8 +2,8 @@
 
 ## Pinboard 
 This is place for suggestions about this document
-> porada ohladom mapy a core loop
-> MVP - co tam podla vas parti a co vynechat
+> porada ohladom mapy a core loop\
+> MVP - co tam podla vas parti a co vynechat\
 > pravidla pohybu, co vy na to? treba vymysliet a zapisat
 
 ## Gameinfo
@@ -13,18 +13,25 @@ This is place for suggestions about this document
 
 ## MVP [minimum viable product]
 ### setup 
-- [ ]  basic engine
 - [x]  game lobby - screen for player matching and starting gameplay
-- [ ]  the map - simple map that conatains: player base - the city, slots for farms, slots for towers, paths, basic enviroment
+- [ ]  the map - simple map that conatains:
+> player base - the city, slots for farms, slots for towers, paths, basic enviroment
 - [ ]  UI - buttons and resources information
+> food amount bar, gold count, mask button, book button
 - [ ]  avatar movement
 
 ### mechanics
 - [ ]  creeps movement mechanic
+> pest spawn, movement path, wave timing, spawn amount
 - [ ]  building farms and towers
+> interact range, popup menu, upgrade/downgrade buttons, crop type/weapon type buttons, resource cost
 - [ ]  avatar interaction mechanic
+> collisions with buildings/walls/pests/second avatar; collect resource  tile upon collision
 - [ ]  using mask mechanic
+> collecting 5 pieces of mask, gradual mask button highliting; mask mode duration and cooldown; tower interaction; 
 - [ ]  cooperation mode - how its played, how it ends
+> players stop fighting one another and build some crops fo pests so they can achieve full food amount bars
+
 ### level design
 - [ ]     first playable level
 - [ ]     second level focused on cooperation (optional)
