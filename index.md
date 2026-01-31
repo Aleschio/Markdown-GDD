@@ -188,7 +188,7 @@ when player obtain 7 books, upon activating book button will take off mask
 
 - **if both players starves** - "game over" => final score will be shown and saved to hiscores
 
-**if one player starves:**
+- **if one player starves:**
    - his food runs out, he can't build farmfields, or towers, 
    - his avatar speed is reduced, but he is able to collect resources and use mask features
    - his resource production will rapidly
