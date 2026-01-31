@@ -1,27 +1,25 @@
-# Project *Gamename*
+# Project *UnSo*
 
 ## Pinboard 
 This is place for suggestions about this document
-> porada ohladom mapy a core loop\
-> MVP - co tam podla vas parti a co vynechat\
-> pravidla pohybu, co vy na to? treba vymysliet a zapisat
+> 
 
 ## Gameinfo
-1. Title: unknown
-2. Genre: co-op tower defense
-3. Target audience: web browser users
+1. Title: **Undercover Solution**
+2. Genre: *co-op tower defense*
+3. Target audience: *web browser users*
 
 ## MVP [minimum viable product]
 ### setup 
 - [x]  game lobby - screen for player matching and starting gameplay
-- [ ]  the map - simple map that conatains:
+- [x]  the map - simple map that conatains:
 > player base - the city, slots for farms, slots for towers, paths, basic enviroment
 - [ ]  UI - buttons and resources information
 > food amount bar, gold count, mask button, book button
 - [x]  avatar movement
 
 ### mechanics
-- [ ]  creeps movement mechanic
+- [x]  creeps movement mechanic
 > pest spawn, movement path, wave timing, spawn amount
 - [ ]  building farms and towers
 > interact range, popup menu, upgrade/downgrade buttons, crop type/weapon type buttons, resource cost
@@ -36,30 +34,15 @@ This is place for suggestions about this document
 - [ ]  first playable level
 
 **required tiles**
-- 1x1 (animated)
-   - grass
-   - gold nugget
-   - mask piece
-   - book
-   - redberry
-   - blueberry
-   - apple
-   - mushroom
-   - pest
-- 2x2
-   - masked avatar
-   - unmasked avatar
-   - pest distraction field
-   - empty pest distraction field
-   - empty tower place
-   - basic tower
-   - spray tower
-- 3x3
-   - empty farm field
-   - farm field
+- **1x1** (animated)
+> grass, gold nugget, mask piece, book, redberry, blueberry, apple, mushroom, pest
+- **2x2**
+> masked avatar, unmasked avatar, pest distraction field, empty pest distraction field, empty tower place, basic tower, spray tower
+- **3x3**
+> empty farm field, farm field, silo
 
-- 4x4
-   - the city - players base
+- **4x4**
+> the city - players base
 
 ### sound
 - [ ] menu music
@@ -89,27 +72,20 @@ This is place for suggestions about this document
 ## Development
 
 ## Game design
-### screen parameters
 display resolution
 > 1280x720
 
 tile grid
 > 32x18 tiles
 
-Game UI size
-> ?
-
 ### controls
-
-- **click on tile** - avatar moves to clicked tile and collect resource if there\
-- **click on empty building tile with avatar neraby** - popup building upgrade/downgrade menu\
-- *bug button* (optional)- this will send wave of pest to both players\
-- **foreign mask button** - wear second player's mask - this allows you to go to their territory and do actions with buildings\
+- **click on tile** - avatar moves to clicked tile and collect resource if there
+- **click on empty building tile with avatar neraby** - popup building upgrade/downgrade menu
+- **foreign mask button** - wear second player's mask - this allows you to go to their territory and do actions with buildings
 - **book button** - this will unmask player and allow him to go to restricted area
 
 **ingame menu button**
-
-1. new game
+1. play again
 2. music volume
 3. sounds volume
 4. hiscore
@@ -135,9 +111,8 @@ this should be:
 
 
 ### movement rules
-this needs to be talked and decided:\
+
 movement speed\
-movement direction\
 movement restrictions
 
 ### game progression
@@ -146,7 +121,7 @@ movement restrictions
 each player start game with gold (100) food supply (50), one active farm field\
 farm field generate 1 food/5s
 basic pest control tower
-"the city" is providing building resources (metal, polymer, ceramics, power) and consume 2 food/5s - food consumption rises over time
+"the city" is providing building resources - gold coins (later possibly metal, polymer, ceramics, power) and consume 2 food/5s - food consumption rises over time
 
 **gameplay**
 
@@ -157,7 +132,7 @@ waves are equally distributed to both players
 when one player have all fields completely infected, pests will divide 80:20 with more pests attacking player with healthlier food production
 
 food consumption and pests count increase over time
-using pesticides is more effective than normal towers but using pesticides diminishes farms food production
+using pesticides diminishes farms food production
 
 **special actions**
 
@@ -187,14 +162,16 @@ when player obtain 7 books, upon activating book button will take off mask
 - **if both players starves** - "game over" => final score will be shown and saved to hiscores
 
 - **if one player starves:**
-   - his food runs out, he can't build farmfields, or towers, 
+   - his food runs out, he can't build towers only farmfields
    - his avatar speed is reduced, but he is able to collect resources and use mask features
-   - his resource production will rapidly
+   - his gold production stops
    - his food consumption rate will slowly decrease
 
 - **if both players fill their food supply to max** - "win win" => final score will be shown and saved to hiscores
 
-- **score formula:** 
+- **score formula:**
+
+faster completion = higher score
 
 ((total generated food amount)*(10[only if both players win]))/((number of seconds from start)/100)
 
