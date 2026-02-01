@@ -1,7 +1,13 @@
 # Project *UnSo*
 
+## Teaminfo
+- **Paulína Brunnerová** - 2D grafic
+- **Pavol Brunner** - programming
+- **Jakub Brunner** - music and management
+- **Martin Ragan** - 2D grafic and level design
+- **Ales Zubák** - sounds and game design
+
 ## Pinboard 
-This is place for suggestions about this document
 > This is multiplayer tower defense game for 2 players.
 > Players ojective is simple to provide enough food and to act wisely.
 > Your city is in need of nutrition and generate gold, wich you can use to defend and upgrade.
