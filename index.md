@@ -198,35 +198,11 @@ buildig sounds
 other sounds
 > mask_mode, unmask, pickup_item
 
-## Soundtrack
 
- > - [*Flute.0.0.1*](https://is.gd/0MXuq4)
- >> first commit
- > - [*Flute.0.0.2*](https://is.gd/SmaKw0)
- >> add strings
- > - [*Flute.0.0.3*](https://is.gd/iGGhSf)
- >> inverted strings
- > - [*Flute.0.0.4*](https://is.gd/Ecft50)
- >> bass + drums
- > - [*Flute.1.1.4*](https://is.gd/YT3iVb)
- >> loop structure
- > - [*Flute.1.1.5*](https://is.gd/BmLM27)
- >> delete reppeteble pattern
- > - [*Flute.2.2.6*](https://is.gd/UKsJZd)
- >> inverted voicing
  > - [*Flute.2.2.7*](https://is.gd/mR8y0U)
  >> for now final
- > - [*in Game 0.0.1*](https://is.gd/rZSloC)
- >> first commit for in Game track 1
- > - [*in Game 0.1.2*](https://is.gd/YklHx0)
- >> add bass + drums
- > - [*in Game 0.1.3*](https://is.gd/PhFDch)
- >> add several bars should lower the bass
- > - [*in Game 1.1.4*](https://is.gd/3OYtv2)
- >> different cadence
- > - [*in Game 1.1.5*](https://is.gd/iGX3Jr)
- >> blues
- > - [*in Game 2.1.6*](https://is.gd/hxCnkE)
- >> add harpsichord
  > - [*in Game 2.2.7*](https://is.gd/XDxTn8)
  >> add another turnaround  
+ > - [*loose*](https://is.gd/jP60gj)
+ > - [*win*](https://is.gd/h5hrnA)
+ > - [*menu*](https://is.gd/rMAgDm)
