@@ -2,10 +2,10 @@
 
 ## Pinboard 
 This is place for suggestions about this document
-> This is multilayer tower defence game for 2 players.
+> This is multiplayer tower defense game for 2 players.
 > Players ojective is simple to provide enough food and to act wisely.
 > Your city is in need of nutrition and generate gold, wich you can use to defend and upgrade.
-> Craft mask to acces foreign grounds.
+> Craft mask to access foreign grounds.
 > Explore wild land.
 > Read books live well and don't starve.
 
