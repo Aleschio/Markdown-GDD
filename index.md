@@ -2,7 +2,7 @@
 
 ## Teaminfo
 
-# Spartakus
+# Team Spartakus
 
 - **Paulína Brunnerová** - 2D grafic
 - **Pavol Brunner** - programming
