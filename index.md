@@ -26,24 +26,24 @@
 - [x]  game lobby - screen for player matching and starting gameplay
 - [x]  the map - simple map that conatains:
 > player base - the city, slots for farms, slots for towers, paths, basic enviroment
-- [ ]  UI - buttons and resources information
+- [x]  UI - buttons and resources information
 > food amount bar, gold count, mask button, book button
 - [x]  avatar movement
 
 ### mechanics
 - [x]  creeps movement mechanic
 > pest spawn, movement path, wave timing, spawn amount
-- [ ]  building farms and towers
+- [x]  building farms and towers
 > interact range, popup menu, upgrade/downgrade buttons, crop type/weapon type buttons, resource cost
 - [ ]  avatar interaction mechanic
 > collisions with buildings/walls/pests/second avatar; collect resource  tile upon collision
-- [ ]  using mask mechanic
+- [x]  using mask mechanic
 > collecting 5 pieces of mask, gradual mask button highliting; mask mode duration and cooldown; tower interaction; 
-- [ ]  cooperation mode - how its played, how it ends
+- [x]  cooperation mode - how its played, how it ends
 > players stop fighting one another and build some crops fo pests so they can achieve full food amount bars
 
 ### level design
-- [ ]  first playable level
+- [x]  first playable level
 
 **required tiles**
 - **1x1** (animated)
@@ -57,10 +57,10 @@
 > the city - players base
 
 ### sound
-- [ ] menu music
-- [ ] game music
-- [ ] win music
-- [ ] game over music
+- [x] menu music
+- [x] game music
+- [x] win music
+- [x] game over music
 
 - [x] tower sound
 - [x] mask mode sound
@@ -120,12 +120,6 @@ this should be:
 - mask piece - player has to collect 5 mask pieces to be able to use second player's mask
 - book - player has to collect 7 books to be able to use "book button" - wich will unmask player upon activation
 - food piece - add 3-10 to players food supply (increase over time)
-
-
-### movement rules
-
-movement speed\
-movement restrictions
 
 ### game progression
 **START**
