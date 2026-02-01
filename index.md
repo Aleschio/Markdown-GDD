@@ -35,7 +35,7 @@
 > pest spawn, movement path, wave timing, spawn amount
 - [x]  building farms and towers
 > interact range, popup menu, upgrade/downgrade buttons, crop type/weapon type buttons, resource cost
-- [ ]  avatar interaction mechanic
+- [x]  avatar interaction mechanic
 > collisions with buildings/walls/pests/second avatar; collect resource  tile upon collision
 - [x]  using mask mechanic
 > collecting 5 pieces of mask, gradual mask button highliting; mask mode duration and cooldown; tower interaction; 
