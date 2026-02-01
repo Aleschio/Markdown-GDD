@@ -206,3 +206,6 @@ other sounds
  > - [*loose*](https://is.gd/jP60gj)
  > - [*win*](https://is.gd/h5hrnA)
  > - [*menu*](https://is.gd/rMAgDm)
+
+# grafic assets
+https://docs.google.com/document/d/e/2PACX-1vR9mKrOeeMsYD6NLxzE7sXTLWXVBkt3_BSm5jNdBHnKzk1TiJZAZwvHZBnJLHriNqTx2yu8DxdQTaBt/pub
