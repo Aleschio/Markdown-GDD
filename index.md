@@ -1,6 +1,9 @@
 # Project *UnSo*
 
 ## Teaminfo
+
+# Spartakus
+
 - **Paulína Brunnerová** - 2D grafic
 - **Pavol Brunner** - programming
 - **Jakub Brunner** - music and management
